@@ -45,11 +45,15 @@ Synthesis RTL Schematic :
 
 Area report:
 
-![Screenshot 2024-11-16 164422](https://github.com/user-attachments/assets/796317d9-5616-48cb-8bc8-695adc27ceeb)
+
+![WhatsApp Image 2024-11-16 at 5 29 36 PM](https://github.com/user-attachments/assets/302efacf-7427-4cee-81eb-e9541fce03f7)
+
 
 Power Report:
 
-![Screenshot 2024-11-16 164428](https://github.com/user-attachments/assets/33d54594-9f3f-44b0-a6e4-d6f44d23d3c7)
+
+![WhatsApp Image 2024-11-16 at 5 29 34 PM](https://github.com/user-attachments/assets/763753c7-353d-48aa-93f9-a40a57a297aa)
+
 
 Result:
 
